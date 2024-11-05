@@ -56,3 +56,4 @@ Since revenue peaked in 2012 and then declined, review market conditions during 
 The amazon sales data analysis project reveals key trends in sales performances across channels, regions and product categories from 2010 to 2017, it highlights areas for optimization, such as boosting online sales and focusing on high- profit regions. The projects insights enable data -driven decisions to enhance profitability and guide future strategy, ensuring sustained growth of Amazon.
 
 
+you can view dashboard from here:https://app.powerbi.com/links/5sMHIMKo8W?ctid=829f81ad-b833-4fe1-9c80-8c86d95372a2&pbi_source=linkShare
